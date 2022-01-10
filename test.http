@@ -1,0 +1,8 @@
+
+// Works with RestClient extention VSCODE
+GET  https://developers.themoviedb.org/3/movies/get-popular-movies
+
+##########
+
+GET https://api.themoviedb.org/3/movie/550?api_key=c9c4faac5abeb254d86a2b3a22f08fd6
+
